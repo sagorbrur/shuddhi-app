@@ -55,6 +55,7 @@ Easily translate English or other non-Bangla text into Bangla! The app intellige
 - **Language Learners**: Improve your Bangla writing and translation skills.  
 
 ---
-
+## Contact
+You can directly contact me through email __brursagor@gmail.com__ and share your thoughts regarding this app.
 
 Discover the difference a perfect Bangla writing experience can make!
