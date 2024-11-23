@@ -5,12 +5,12 @@ Whether you're drafting professional emails, creating engaging content, or simpl
 
 # **Get Started Today!**  
 
-Don’t let language barriers or errors hold you back. Try the **Bangla Text Correction App** now and elevate your Bangla writing to the next level!  
+Don’t let language barriers or errors hold you back. Try the **শুদ্ধি (Bangla Text Correction App)** now and elevate your Bangla writing to the next level!  
 
 - **App URL**: [Bangla Text Correction App](https://shuddhi.vercel.app/)  
 - **Chrome Extension**: [Download Here](https://chromewebstore.google.com/detail/%E0%A6%B6%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF-bengali-text-corre/ljbpcacmkblanogmcmpdhlkopfkdmebp?authuser=0&hl=en)  
 
-# **Features of the Bangla Text Correction App**  
+# **Features of the Shuddhi App**  
 
 ### **1. Grammar Correction**  
 Say goodbye to awkward grammatical errors! The app automatically identifies and corrects grammatical issues in your Bangla text, ensuring your writing is accurate and fluent. Whether it's verb conjugation or sentence agreement, this feature has got you covered.  
@@ -29,7 +29,7 @@ Easily translate English or other non-Bangla text into Bangla! The app intellige
 
 ---
 
-## **How to Use the Bangla Text Correction App**  
+## **How to Use the Shuddhi App**  
 
 1. **Web Application**:  
    Visit our [Bangla Text Correction App](https://shuddhi.vercel.app/) to get started. Simply write or paste your text into the input field, and the app will automatically process and return the corrected or translated version.  
