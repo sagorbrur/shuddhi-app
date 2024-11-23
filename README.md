@@ -58,4 +58,7 @@ Easily translate English or other non-Bangla text into Bangla! The app intellige
 ## Contact
 You can directly contact me through email __brursagor@gmail.com__ and share your thoughts regarding this app.
 
+## Sponsor
+As this project needs __LLM Cloud API cost__, you can sponsor it by clicking the sponsor button at the top.
+
 Discover the difference a perfect Bangla writing experience can make!
