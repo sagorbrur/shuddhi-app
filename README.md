@@ -63,7 +63,7 @@ Easily translate English or other non-Bangla text into Bangla! The app intellige
 
 
 3. **Mobile Usage**:  
-   Access the app seamlessly on your smartphone through any web browser or use the mobile-optimized interface for on-the-go corrections and translations.  
+   WIP  
 
 ---
 
