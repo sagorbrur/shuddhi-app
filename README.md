@@ -44,7 +44,23 @@ Easily translate English or other non-Bangla text into Bangla! The app intellige
    - **Installation**:  
      - Download the extension from the [Chrome Web Store](https://chromewebstore.google.com/detail/%E0%A6%B6%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF-bengali-text-corre/ljbpcacmkblanogmcmpdhlkopfkdmebp?authuser=0&hl=en).  
      - Enable it in your browser settings.  
-     - Start typing in Bangla, and let the extension work its magic!  
+     - Start typing in Bangla, and let the extension work its magic!
+    
+   - **Try with Context Menu**
+      ![Screenshot from 2024-11-24 15-00-00_crop](https://github.com/user-attachments/assets/44564d14-dbd4-475c-bd31-b867a3512408)
+
+      ![Screenshot from 2024-11-24 15-00-57_crop](https://github.com/user-attachments/assets/08b80766-5053-4898-bb68-677b55ef6876)
+
+   - **Try with the extension icon**
+   
+      ![Screenshot from 2024-11-22 12-56-45](https://github.com/user-attachments/assets/a669fb04-ee47-40a5-9330-c2abebb06508)
+      ![Screenshot from 2024-11-22 12-57-49](https://github.com/user-attachments/assets/d060fdd6-e98c-4c6a-a4bf-cdc810d8e24a)
+      ![Screenshot from 2024-11-22 12-58-12](https://github.com/user-attachments/assets/a41ff587-64f9-4a3b-ae1f-5c5cfbb64aa9)
+
+
+
+
+
 
 3. **Mobile Usage**:  
    Access the app seamlessly on your smartphone through any web browser or use the mobile-optimized interface for on-the-go corrections and translations.  
