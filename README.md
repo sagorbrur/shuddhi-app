@@ -1,4 +1,9 @@
 # শুদ্ধি (Bangla Text Corrector)
+
+<img src="https://github.com/user-attachments/assets/85740b99-d340-4008-a2f7-bb654cb4194b" alt="image" width="1080">
+
+
+
 Are you struggling with grammar, spelling, or sentence structure in your Bangla writing? Do you wish for an effortless way to transliterate Romanized Bangla or translate non-Bangla text into Bangla? Look no further! The **Shuddhi (শুদ্ধি)** an LLM-based app is here to enhance your Bangla writing experience with a suite of powerful features.  
 
 Whether you're drafting professional emails, creating engaging content, or simply learning the language, this app is your ultimate companion. 
