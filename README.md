@@ -67,17 +67,11 @@ Easily translate English or other non-Bangla text into Bangla! The app intellige
 
 ---
 
-
-## **Who Can Benefit?**  
-
-- **Students**: Write essays, assignments, and notes without worrying about errors.  
-- **Professionals**: Draft error-free emails and reports effortlessly.  
-- **Content Creators**: Create polished articles, blogs, and social media posts.  
-- **Language Learners**: Improve your Bangla writing and translation skills.  
-
----
 ## Contact
 You can directly contact me through email __brursagor@gmail.com__ and share your thoughts regarding this app.
+
+### Backend API
+If you want to integrate __Shuddhi__ with your keyboard or other software feel free to contact.
 
 ---
 ## Sponsor
