@@ -74,5 +74,36 @@ As this project needs __LLM Cloud API cost__, you can sponsor it by clicking the
 
 Discover the difference a perfect Bangla writing experience can make!
 
+---
 ## Privacy Guideline
 Please check [privacy policy](https://github.com/sagorbrur/shuddhi-app/blob/main/privacy-policy.md) for details.
+
+---
+## **Constraints of the Shuddhi App**  
+
+1. **Performance Limitations of Small LLMs**:  
+   The app currently utilizes cost-effective and lightweight Language Learning Models (LLMs) to balance operational costs and accessibility. As a result, these models may not always match the performance of more advanced LLMs, particularly in handling complex grammatical errors or nuanced corrections.  
+
+2. **Accuracy Variations**:  
+   Due to the limitations of the current LLMs, there may be instances where the corrected text is not fully accurate or appropriate. While the app strives to provide the best possible output, edge cases involving unique sentence structures or rarely used words may pose challenges.  
+
+3. **Contextual Understanding**:  
+   The app's ability to understand and correct errors relies on the LLM’s training data. Misinterpretations or lack of context could occasionally lead to incorrect corrections or outputs.  
+
+---
+
+## **Future Improvements**  
+
+1. **Integration of Advanced and Robust LLMs**:  
+   We plan to integrate more advanced and robust LLMs in future versions to enhance the app's accuracy and efficiency, ensuring that users receive high-quality corrections even in complex cases.  
+
+2. **Hybrid Approach for Enhanced Results**:  
+   Exploring a combination of lightweight and advanced models, or incorporating rule-based corrections alongside LLM outputs, to improve reliability while maintaining cost efficiency.  
+
+3. **User Feedback Loop**:  
+   Introducing a mechanism for users to provide feedback on corrections, allowing continuous improvement of the app by identifying and addressing common inaccuracies.  
+
+4. **Cost Optimization without Sacrificing Quality**:  
+   Exploring partnerships or custom-trained LLMs tailored for Bangla text processing to balance cost and performance, ultimately making the app more scalable and affordable for users.  
+
+These improvements aim to make Shuddhi a more reliable and powerful tool for Bangla language correction and translation.
