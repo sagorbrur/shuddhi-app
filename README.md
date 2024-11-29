@@ -60,11 +60,6 @@ Easily translate English or other non-Bangla text into Bangla! The app intellige
 
 
 
-
-
-3. **Mobile Usage**:  
-   WIP  
-
 ---
 
 ## Contact
@@ -78,3 +73,6 @@ If you want to integrate __Shuddhi__ with your keyboard or other software feel f
 As this project needs __LLM Cloud API cost__, you can sponsor it by clicking the sponsor button at the top.
 
 Discover the difference a perfect Bangla writing experience can make!
+
+## Privacy Guideline
+Please check [privacy policy](https://github.com/sagorbrur/shuddhi-app/blob/main/privacy-policy.md) for details.
