@@ -82,7 +82,7 @@ Please check [privacy policy](https://github.com/sagorbrur/shuddhi-app/blob/main
 ## **Constraints of the Shuddhi App**  
 
 1. **Performance Limitations of Small LLMs**:  
-   The app currently utilizes cost-effective and lightweight Language Learning Models (LLMs) to balance operational costs and accessibility. As a result, these models may not always match the performance of more advanced LLMs, particularly in handling complex grammatical errors or nuanced corrections.  
+   The app currently utilizes cost-effective and lightweight Large Language Models (LLMs)  to balance operational costs and accessibility. As a result, these models may not always match the performance of more advanced LLMs, particularly in handling complex grammatical errors or nuanced corrections.  
 
 2. **Accuracy Variations**:  
    Due to the limitations of the current LLMs, there may be instances where the corrected text is not fully accurate or appropriate. While the app strives to provide the best possible output, edge cases involving unique sentence structures or rarely used words may pose challenges.  
