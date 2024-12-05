@@ -47,6 +47,8 @@ Easily translate English or other non-Bangla text into Bangla! The app intellige
      - Start typing in Bangla, and let the extension work its magic!
     
    - **Try with Context Menu**
+
+      __Press CTRL + SHIFT + S__
       ![Screenshot from 2024-11-24 15-00-00_crop](https://github.com/user-attachments/assets/44564d14-dbd4-475c-bd31-b867a3512408)
 
       ![Screenshot from 2024-11-24 15-00-57_crop](https://github.com/user-attachments/assets/08b80766-5053-4898-bb68-677b55ef6876)
