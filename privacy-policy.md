@@ -2,22 +2,29 @@
 
 **Effective Date**: 29 November, 2024  
 
+---
+
 ### **Introduction**  
-Shuddhi (Bangla Text Correction App) is committed to protecting your privacy while delivering an enhanced Bangla writing experience. This Privacy Policy explains how we handle user data, particularly when using cloud-based APIs and enabling logging for debugging purposes.  
+Shuddhi (Bangla Text Correction App) is committed to protecting your privacy while delivering an enhanced Bangla writing experience. This Privacy Policy explains how we handle user data, particularly when using cloud-based APIs, enabling logging for debugging purposes, and integrating Google Analytics for basic analytics.  
 
 ---
 
 ### **1. Data Collection and Processing**  
-Shuddhi relies on cloud-based Language Model APIs (e.g., OpenAI) to perform text corrections, translations, and other features. This involves sending your input text to the cloud API for processing. Additionally, we have logging enabled for debugging purposes to ensure the app runs smoothly.  
+Shuddhi relies on cloud-based Language Model APIs (e.g., OpenAI) to perform text corrections, translations, and other features. This involves sending your input text to the cloud API for processing. Additionally, we use logging for debugging purposes and Google Analytics for basic analytics.  
 
 - **What Data is Sent to Cloud APIs**:  
   - Only the text you submit for correction or translation.  
   - No personally identifiable information (e.g., names, email addresses) or metadata about your session is shared.  
+
 - **What Data is Logged**:  
   - Logs may include anonymized data such as error messages, input/output text snippets, and usage patterns to debug issues and improve performance.  
-  - Logs are securely stored and are purged regularly to minimize data retention.  
+  - Logs are securely stored and purged regularly to minimize data retention.  
 
-Shuddhi does not store or retain data long-term outside of debugging purposes, and no input data is used for marketing or shared with third parties beyond the API providers.  
+- **Google Analytics Data**:  
+  - Shuddhi uses Google Analytics to collect basic analytics such as app usage patterns, user interactions, and traffic sources.  
+  - This data is anonymized and aggregated, ensuring no personally identifiable information is collected.  
+
+Shuddhi does not store or retain data long-term outside of debugging purposes, and no input data is used for marketing or shared with third parties beyond the API providers and analytics tools.  
 
 ---
 
@@ -29,7 +36,22 @@ Shuddhi leverages external cloud APIs, such as OpenAI, to deliver its core funct
 
 ---
 
-### **3. Permissions**  
+### **3. Use of Google Analytics**  
+To improve the app experience, Shuddhi integrates Google Analytics for tracking app performance and user engagement.  
+
+- **Purpose of Analytics**:  
+  - Collect anonymized insights into how users interact with the app.  
+  - Identify trends in app usage to prioritize features and improvements.  
+
+- **What is Collected**:  
+  - General device information, user interaction patterns, and app traffic data.  
+  - No personally identifiable information is collected or stored.  
+
+You can opt out of Google Analytics tracking by using browser settings or extensions designed to block analytics tracking.  
+
+---
+
+### **4. Permissions**  
 Shuddhi may require certain permissions to function effectively:  
 
 - **Host Permissions (Web App & Chrome Extension)**: Allows the app to process selected text directly from web pages (e.g., emails, Google Docs) upon user request.  
@@ -40,21 +62,22 @@ These permissions are strictly for providing app functionality and do not involv
 
 ---
 
-### **4. Data Security**  
+### **5. Data Security**  
 We prioritize data security by ensuring:  
 
 - **Secure Transmission**: All data sent to cloud APIs and logs are encrypted (HTTPS).  
 - **Limited Access**: Logging data is securely stored, access is restricted to authorized personnel for debugging purposes only, and logs are purged regularly.  
-- **Transparency**: We do not use logged data for training, marketing, or sharing with unauthorized third parties.  
+- **Transparency**: We do not use logged or analytics data for training, marketing, or sharing with unauthorized third parties.  
 
 ---
 
-### **5. Logging for Debugging**  
+### **6. Logging for Debugging**  
 Logging is enabled to identify and resolve issues, improve performance, and enhance the user experience.  
 
 - **What is Logged**:  
   - Limited and anonymized input/output data from the app.  
   - Error codes and system messages.  
+
 - **How Logs Are Handled**:  
   - Logs are stored securely with restricted access.  
   - Logs are reviewed solely for debugging and operational improvements.  
@@ -64,12 +87,12 @@ If you have concerns about logging, please reach out using the contact details b
 
 ---
 
-### **6. Changes to This Privacy Policy**  
+### **7. Changes to This Privacy Policy**  
 As Shuddhi evolves, this Privacy Policy may be updated to reflect new features or practices. Significant changes will be communicated clearly, and the latest version will always be available.  
 
 ---
 
-### **7. Contact Us**  
+### **8. Contact Us**  
 If you have questions, concerns, or feedback about this Privacy Policy or the app, feel free to reach out:  
 **Email**: brursagor@gmail.com  
 
