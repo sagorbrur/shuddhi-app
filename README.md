@@ -13,7 +13,8 @@ Whether you're drafting professional emails, creating engaging content, or simpl
 Don’t let language barriers or errors hold you back. Try the **শুদ্ধি (Bangla Text Correction App)** now and elevate your Bangla writing to the next level!  
 
 - **App URL**: [Bangla Text Correction App](https://shuddhi.vercel.app/)  
-- **Chrome Extension**: [Download Here](https://chromewebstore.google.com/detail/%E0%A6%B6%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF-bengali-text-corre/ljbpcacmkblanogmcmpdhlkopfkdmebp?authuser=0&hl=en)  
+- **Chrome Extension**: [Download Here](https://chromewebstore.google.com/detail/%E0%A6%B6%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF-bengali-text-corre/ljbpcacmkblanogmcmpdhlkopfkdmebp?authuser=0&hl=en)
+- **Firefox Addon**: [Download Here](https://addons.mozilla.org/en-US/firefox/addon/shuddhi-bengali-text-corrector/)
 
 # **Features of the Shuddhi App**  
 
@@ -48,7 +49,10 @@ Easily translate English or other non-Bangla text into Bangla! The app intellige
     
    - **Try with Context Menu**
 
-      __Press CTRL + SHIFT + S__
+      Select text and right click and then click __Correct with Shuddhi__
+
+      Select text and press __CTRL+SHIFT+S__ (Sometimes it won't work due to the browser shortcut key)
+
       ![Screenshot from 2024-11-24 15-00-00_crop](https://github.com/user-attachments/assets/44564d14-dbd4-475c-bd31-b867a3512408)
 
       ![Screenshot from 2024-11-24 15-00-57_crop](https://github.com/user-attachments/assets/08b80766-5053-4898-bb68-677b55ef6876)
@@ -59,6 +63,28 @@ Easily translate English or other non-Bangla text into Bangla! The app intellige
       ![Screenshot from 2024-11-22 12-57-49](https://github.com/user-attachments/assets/d060fdd6-e98c-4c6a-a4bf-cdc810d8e24a)
       ![Screenshot from 2024-11-22 12-58-12](https://github.com/user-attachments/assets/a41ff587-64f9-4a3b-ae1f-5c5cfbb64aa9)
 
+3. **Firefox Addon**
+
+   Enhance your writing experience across the web with our **Firefox Addon**! Whether you're typing in Google Docs, composing emails, or posting on social media, the extension ensures your Bangla text is flawless.
+   - **Installation**:  
+     - Install the extension from the [Mozilla Addons](https://addons.mozilla.org/en-US/firefox/addon/shuddhi-bengali-text-corrector/).  
+     - Start typing in Bangla, and let the extension work its magic!
+    
+   - **Try with Context Menu**
+
+      Select text and right click and then click __Correct with Shuddhi__
+
+      Select text and press __CTRL+SHIFT+S__ (Sometimes it won't work due to the browser shortcut key)
+
+      ![Screenshot from 2024-11-24 15-00-00_crop](https://github.com/user-attachments/assets/44564d14-dbd4-475c-bd31-b867a3512408)
+
+      ![Screenshot from 2024-11-24 15-00-57_crop](https://github.com/user-attachments/assets/08b80766-5053-4898-bb68-677b55ef6876)
+
+   - **Try with the extension icon**
+   
+      ![Screenshot from 2024-11-22 12-56-45](https://github.com/user-attachments/assets/a669fb04-ee47-40a5-9330-c2abebb06508)
+      ![Screenshot from 2024-11-22 12-57-49](https://github.com/user-attachments/assets/d060fdd6-e98c-4c6a-a4bf-cdc810d8e24a)
+      ![Screenshot from 2024-11-22 12-58-12](https://github.com/user-attachments/assets/a41ff587-64f9-4a3b-ae1f-5c5cfbb64aa9)
 
 
 
