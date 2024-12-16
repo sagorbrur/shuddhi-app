@@ -87,7 +87,11 @@ Easily translate English or other non-Bangla text into Bangla! The app intellige
       ![Screenshot from 2024-11-22 12-57-49](https://github.com/user-attachments/assets/d060fdd6-e98c-4c6a-a4bf-cdc810d8e24a)
       ![Screenshot from 2024-11-22 12-58-12](https://github.com/user-attachments/assets/a41ff587-64f9-4a3b-ae1f-5c5cfbb64aa9)
 
+4. **Mobile App**
 
+   **Android App (Web View)**: [Shuddhi.apk](https://github.com/sagorbrur/shuddhi-app/raw/refs/heads/main/shuddhi.apk)
+
+   
 
 ---
 
