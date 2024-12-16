@@ -15,6 +15,7 @@ Don’t let language barriers or errors hold you back. Try the **শুদ্ধ
 - **App URL**: [Bangla Text Correction App](https://shuddhi.vercel.app/)  
 - **Chrome Extension**: [Download Here](https://chromewebstore.google.com/detail/%E0%A6%B6%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF-bengali-text-corre/ljbpcacmkblanogmcmpdhlkopfkdmebp?authuser=0&hl=en)
 - **Firefox Addon**: [Download Here](https://addons.mozilla.org/en-US/firefox/addon/shuddhi-bengali-text-corrector/)
+- **Android App(web view)**: [Shuddhi.apk](https://github.com/sagorbrur/shuddhi-app/raw/refs/heads/main/shuddhi.apk)
 
 # **Features of the Shuddhi App**  
 
