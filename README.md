@@ -39,9 +39,18 @@ Easily translate English or other non-Bangla text into Bangla! The app intellige
 ## **How to Use the Shuddhi App**  
 
 1. **Web Application**:  
-   Visit our [Bangla Text Correction App](https://shuddhi.vercel.app/) to get started. Simply write or paste your text into the input field, and the app will automatically process and return the corrected or translated version.  
+   Visit our [Bangla Text Correction App](https://shuddhi.vercel.app/) to get started. Simply write or paste your text into the input field, and the app will automatically process and return the corrected or translated version.
 
-2. **Chrome Extension**:  
+2. **Mobile App**
+
+   **Android App (Web View)**: [Shuddhi.apk](https://github.com/sagorbrur/shuddhi-app/raw/refs/heads/main/shuddhi.apk)
+
+   ![WhatsApp Image 2024-12-16 at 8 36 16 PM](https://github.com/user-attachments/assets/b40b71c7-c530-4911-88a7-122c6b921058)
+   ![WhatsApp Image 2024-12-16 at 8 37 01 PM](https://github.com/user-attachments/assets/78412b86-0334-42ef-9a39-1df20b6034d2)
+
+
+
+4. **Chrome Extension**:  
    Enhance your writing experience across the web with our **Chrome Extension**! Whether you're typing in Google Docs, composing emails, or posting on social media, the extension ensures your Bangla text is flawless.  
    - **Installation**:  
      - Download the extension from the [Chrome Web Store](https://chromewebstore.google.com/detail/%E0%A6%B6%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF-bengali-text-corre/ljbpcacmkblanogmcmpdhlkopfkdmebp?authuser=0&hl=en).  
@@ -64,7 +73,7 @@ Easily translate English or other non-Bangla text into Bangla! The app intellige
       ![Screenshot from 2024-11-22 12-57-49](https://github.com/user-attachments/assets/d060fdd6-e98c-4c6a-a4bf-cdc810d8e24a)
       ![Screenshot from 2024-11-22 12-58-12](https://github.com/user-attachments/assets/a41ff587-64f9-4a3b-ae1f-5c5cfbb64aa9)
 
-3. **Firefox Addon**
+5. **Firefox Addon**
 
    Enhance your writing experience across the web with our **Firefox Addon**! Whether you're typing in Google Docs, composing emails, or posting on social media, the extension ensures your Bangla text is flawless.
    - **Installation**:  
@@ -86,10 +95,6 @@ Easily translate English or other non-Bangla text into Bangla! The app intellige
       ![Screenshot from 2024-11-22 12-56-45](https://github.com/user-attachments/assets/a669fb04-ee47-40a5-9330-c2abebb06508)
       ![Screenshot from 2024-11-22 12-57-49](https://github.com/user-attachments/assets/d060fdd6-e98c-4c6a-a4bf-cdc810d8e24a)
       ![Screenshot from 2024-11-22 12-58-12](https://github.com/user-attachments/assets/a41ff587-64f9-4a3b-ae1f-5c5cfbb64aa9)
-
-4. **Mobile App**
-
-   **Android App (Web View)**: [Shuddhi.apk](https://github.com/sagorbrur/shuddhi-app/raw/refs/heads/main/shuddhi.apk)
 
    
 
