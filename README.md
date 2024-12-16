@@ -45,8 +45,10 @@ Easily translate English or other non-Bangla text into Bangla! The app intellige
 
    **Android App (Web View)**: [Shuddhi.apk](https://github.com/sagorbrur/shuddhi-app/raw/refs/heads/main/shuddhi.apk)
 
-   ![WhatsApp Image 2024-12-16 at 8 36 16 PM](https://github.com/user-attachments/assets/b40b71c7-c530-4911-88a7-122c6b921058)
-   ![WhatsApp Image 2024-12-16 at 8 37 01 PM](https://github.com/user-attachments/assets/78412b86-0334-42ef-9a39-1df20b6034d2)
+   <img src="https://github.com/user-attachments/assets/b40b71c7-c530-4911-88a7-122c6b921058" alt="WhatsApp Image 2024-12-16 at 8 36 16 PM" width="443" height="960">
+
+   <img src="https://github.com/user-attachments/assets/78412b86-0334-42ef-9a39-1df20b6034d2" alt="WhatsApp Image 2024-12-16 at 8 37 01 PM" width="443" height="960">
+
 
 
 
