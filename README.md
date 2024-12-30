@@ -147,3 +147,6 @@ Please check [privacy policy](https://github.com/sagorbrur/shuddhi-app/blob/main
    Exploring partnerships or custom-trained LLMs tailored for Bangla text processing to balance cost and performance, ultimately making the app more scalable and affordable for users.  
 
 These improvements aim to make Shuddhi a more reliable and powerful tool for Bangla language correction and translation.
+
+## Sponsored By
+- [Hishab Technologies Limited](https://github.com/hishab-nlp)
