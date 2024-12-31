@@ -148,5 +148,3 @@ Please check [privacy policy](https://github.com/sagorbrur/shuddhi-app/blob/main
 
 These improvements aim to make Shuddhi a more reliable and powerful tool for Bangla language correction and translation.
 
-## Sponsored By
-- [Hishab Technologies Limited](https://github.com/hishab-nlp)
